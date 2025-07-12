@@ -101,7 +101,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Raval VET Centre. All rights reserved (Adi Mr) .</p>
+    <p>&copy; 2025 Raval VET Centre. All rights reserved.</p>
   </footer>
 </body>
 </html>
