@@ -96,12 +96,12 @@
     <p>
       📍 Location: Raval, East New Britain Province, PNG<br />
       📞 Phone: 78806238<br />
-      📧 Email: ravalvet@gmail.com OR tadiunegiya18@gmail.com
+      📧 Email: ravalvet@gmail.com
     </p>
   </section>
 
   <footer>
-    <p>&copy; 2025 Raval VET Centre. All rights reserved (Adi Thomas Mr) .</p>
+    <p>&copy; 2025 Raval VET Centre. All rights reserved (Adi Mr) .</p>
   </footer>
 </body>
 </html>
